@@ -4,74 +4,32 @@ Fullstack JavaScript Developer (React / Node.js)
 
 ## 🚀 About Me
 - Commercial frontend experience
-- Fullstack development (React + Node.js)
-- REST API, SQLite, architecture (FSD)
-- Experience with Redux, MobX, Zustand
+- Fullstack development
+- REST API & SQLite
+- Architecture: FSD
 
-## 🛠 Tech Stack
+## 🛠 Stack
+React • TypeScript • Node.js • Express • Zustand • MobX • Redux • SQLite
 
-### Frontend
-- React
-- TypeScript
-- Redux Toolkit
-- MobX
-- Zustand
-- SCSS
-- MUI
+## 💼 Projects
 
-### Backend
-- Node.js
-- Express.js
-- REST API
-
-### Database
-- SQLite
-- PostgreSQL
-
----
-
-# 💼 Projects
-
-## 🔹 Aquaterm
-Commercial fullstack project.
-
-### Features
+### 🔹 Aquaterm
+Commercial fullstack project
 - JWT authentication
 - RBAC
-- Zustand state management
+- Zustand
 - REST API
-- CRUD operations
-- Filtering & search
 
-🔗 Repo: <ссылка>
-
----
-
-## 🔹 DS30
-Management system for kindergarten.
-
-### Features
-- User management
+### 🔹 DS30
+Management system
 - CRUD
-- Tables & interfaces
+- User management
+- Tables
 
-🔗 Repo: <ссылка>
-
----
-
-## 🔹 FinTracker
-Commercial frontend project.
-
-### Features
+### 🔹 FinTracker
+Commercial frontend project
 - React SPA
 - REST API integration
-- Financial data tables
-- Form validation
-
-🔗 Repo: <ссылка>
-
----
 
 ## 📫 Contacts
-Telegram: @jackiecchn  
-Email: jackiecchn@yandex.ru
+Telegram: @jackiecchn
