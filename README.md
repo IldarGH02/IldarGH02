@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Ильдар Халилов
 
-<!--
-**IldarGH02/IldarGH02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack JavaScript Developer (React / Node.js)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Commercial frontend experience
+- Fullstack development (React + Node.js)
+- REST API, SQLite, architecture (FSD)
+- Experience with Redux, MobX, Zustand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Redux Toolkit
+- MobX
+- Zustand
+- SCSS
+- MUI
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+
+### Database
+- SQLite
+- PostgreSQL
+
+---
+
+# 💼 Projects
+
+## 🔹 Aquaterm
+Commercial fullstack project.
+
+### Features
+- JWT authentication
+- RBAC
+- Zustand state management
+- REST API
+- CRUD operations
+- Filtering & search
+
+🔗 Repo: <ссылка>
+
+---
+
+## 🔹 DS30
+Management system for kindergarten.
+
+### Features
+- User management
+- CRUD
+- Tables & interfaces
+
+🔗 Repo: <ссылка>
+
+---
+
+## 🔹 FinTracker
+Commercial frontend project.
+
+### Features
+- React SPA
+- REST API integration
+- Financial data tables
+- Form validation
+
+🔗 Repo: <ссылка>
+
+---
+
+## 📫 Contacts
+Telegram: @jackiecchn  
+Email: jackiecchn@yandex.ru
